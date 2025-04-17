@@ -1,23 +1,22 @@
 # Project Release Notes
 
 ## Project Description
-bug fixes=0.98
-fixed lag
+i ahve created a python project that generate automatic read.md file
 
 ## 📦 Version
 v1.0.0
 
 ## ✨ New Features
-- Add initial working features.
+increased good luck
 
 ## 🐛 Bug Fixes
-- Fix minor typos in code comments.
+freeze and time stop
 
 ## ⚙️ Improvements
-- Refactor code structure for scalability.
+lag
 
 ## 🚧 Known Issues
-- Some models may respond slower under heavy load.
+nothing
 
 ## 📚 How to Use
 1. Clone this repository.
@@ -35,4 +34,4 @@ Pull requests are welcome. Feel free to open issues for suggestions and bugs!
 
 ## 📝 License
 This project is licensed under the MIT License.
-## ⚙️ Documentation gets added via' and 'languance' under the MIT License
+###
